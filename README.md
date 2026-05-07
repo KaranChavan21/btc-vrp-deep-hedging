@@ -1,8 +1,11 @@
 # BTC Options Volatility Risk Premium Strategy
 
-**Master's Thesis Project · MSc Quantitative Finance · Singapore Management University**
+**Personal Quantitative Research Project**
+*MSc Quantitative Finance candidate · Singapore Management University*
 
 A systematic short-volatility strategy on BTC options with deep-learning-based hedging.
+
+> **Disclaimer:** This is a research project for academic and educational purposes only. Nothing here constitutes investment advice, a recommendation, or an offer to trade any financial instrument. All performance figures are hypothetical backtests; live trading results may differ materially. Use at your own risk.
 
 ---
 
